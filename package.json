@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-implicit-dependencies",
-  "version": "1.1.0",
+  "name": "@fable/eslint-plugin-implicit-dependencies",
+  "version": "1.2.0-beta.1",
   "description": "eslint plugin to detect implicit dependencies",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lennym/eslint-plugin-implicit-dependencies.git"
+    "url": "git+https://github.com/fablestudios/eslint-plugin-implicit-dependencies.git"
   },
   "keywords": [
     "eslint",
@@ -17,9 +17,9 @@
   "author": "Leonard Martin <hello@lennym.co.uk>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lennym/eslint-plugin-implicit-dependencies/issues"
+    "url": "https://github.com/fablestudios/eslint-plugin-implicit-dependencies/issues"
   },
-  "homepage": "https://github.com/lennym/eslint-plugin-implicit-dependencies#readme",
+  "homepage": "https://github.com/fablestudios/eslint-plugin-implicit-dependencies#readme",
   "dependencies": {
     "builtin-modules": "^1.1.1",
     "findup": "^0.1.5"
